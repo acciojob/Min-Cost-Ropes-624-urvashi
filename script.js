@@ -20,7 +20,7 @@ while(arr.length > 1){
 return cost;
 
 }
-console.log(mincost(arr));
 
- document.write("<h2>Minimum cost to connect ropes is: " + result + "</h2>");
+
+document.writeln(mincost(arr));
 module.exports=mincost;
