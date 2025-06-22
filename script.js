@@ -22,5 +22,5 @@ return cost;
 }
 console.log(mincost(arr));
 
- // document.write("<h2>Minimum cost to connect ropes is: " + result + "</h2>");
+ document.write("<h2>Minimum cost to connect ropes is: " + result + "</h2>");
 module.exports=mincost;
